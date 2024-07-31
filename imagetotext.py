@@ -5,7 +5,7 @@ from colorama import init
 
 init(autoreset=True)
 
-path = "E:\\資料\\PYTHON\\tec\\6zmGDDZ.jpg" #照片的絕對路徑
+path = "D:\\Image.jpg" #照片的絕對路徑
 
 
 class ImageToColoredText:
